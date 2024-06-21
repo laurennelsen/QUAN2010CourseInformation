@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-quiz-2" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Quiz 2 Example Problems</title>
+
+  <p> Below are example problems for Quiz 2. </p>
+
+  <p>
+    <url href="external/sheets/Example Quiz 2 Objectives.xlsx" />
+  </p>
+
+  <subsection xml:id="subsec-quiz-2-solutions">
+    <title>Solutions</title>
+
+    
+    <p>
+        <ul>
+          <li>
+          <p>
+            Excel files and/or written work for solutions:
+            
+          </p>
+          <p>
+            <url href="external/sheets/Example Quiz 2 Solutions.xlsx" />
+            <url href="external/sheets/2a Example Solution.xlsx" />
+            <url href="external/sheets/2b Example Solution.xlsx" />
+
+          </p>
+      
+      </li>
+      
+        <li>
+        <p> Videos of Solutions:
+            <ul>
+              <li>
+                <p>
+                  <em>Objective 2a:</em>
+                </p>
+                <p>
+                  <video youtube="tpsun8wlRxw"/>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <em>Objective 2b:</em>
+                </p>
+                <p>
+                  <video youtube="Zkw9Ywx14d0"/>
+                </p>
+              </li>
+            </ul>
+          </p>
+        </li>  
+       
+      </ul>
+       
+      </p>
+    
+  </subsection>
+
+</section>

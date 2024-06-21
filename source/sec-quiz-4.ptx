@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-quiz-4" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Quiz 4 Example Problems</title>
+
+  <p> Below are example problems for Quiz 4. </p>
+
+  <p>
+    <url href="external/sheets/Example Quiz 4 Objectives.xlsx" />
+  </p>
+
+  <subsection xml:id="subsec-quiz-4-solutions">
+    <title>Solutions</title>
+
+    
+    <p>
+        <ul>
+          <li>
+          <p>
+            Excel files and/or written work for solutions:
+            
+          </p>
+          <p>
+            <url href="external/sheets/Example Quiz 4 Solutions.xlsx" />
+            <url href="external/sheets/4a,4b,4c Example Solutions.xlsx" />
+
+          </p>
+      
+      </li>
+      
+        <li>
+        <p> Videos of Solutions:
+            <ul>
+              <li>
+                <p>
+                  <em>Objective 4a:</em>
+                </p>
+                <p>
+                  <video youtube=""/>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <em>Objective 4b:</em>
+                </p>
+                <p>
+                  <video youtube=""/>
+                </p>
+              </li>
+            </ul>
+          </p>
+        </li>  
+       
+      </ul>
+       
+      </p>
+    
+  </subsection>
+
+</section>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-summary-of-objectives" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>QUAN 2010 Quiz Objectives</title>
+
+  <p> (Note:  These are subject to changes.) </p>
+
+  <p>
+
+    <ul>
+        <li>
+            <p>
+                <em>Quiz 1</em>
+            </p>
+            <p>
+                <ul>
+                    <li>
+                        <p>
+                            <em>1a:  Types of variables</em>
+                        </p>
+                        <p>
+                            I can classify a variable as Quantitative or Qualitative, as well as the subcategory Continuous, Discrete, Nominal or Ordinal.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <em>1b:  Visualizing Data</em>
+                        </p>
+                        <p>
+                            Given a sample of data, I can generate visualizations to represent its variables.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </li>
+
+        <li>
+            <p>
+                <em>Quiz 2</em>
+            </p>
+            <p>
+                <ul>
+                    <li>
+                        <p>
+                            <em>2a:  Centers of Data</em>
+                        </p>
+                        <p>
+                            Given a sample of data, I can identify or compute different measures of centrality.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <em>2b:  Variation of Data</em>
+                        </p>
+                        <p>
+                            Given a sample of data, I can identify or compute different measures of variation, identify outliers, and construct a box-and-whisker plot for the data.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </li>
+
+
+
+
+        <li>
+            <p>
+                <em>Quiz 3</em>
+            </p>
+            <p>
+                <ul>
+                    <li>
+                        <p>
+                            <em>3a:  Probability</em>
+                        </p>
+                        <p>
+                            I can compute probabilities of events, including compound events involving operations and probability of events involving conditional probabilities.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <em>3b:  Random Variables</em>
+                        </p>
+                        <p>
+                            I can compute probabilities from the probability distribution of a random variable, as well as compute the expectation, variance and standard deviation of a random variable.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </li>
+
+
+
+
+        <li>
+            <p>
+                <em>Quiz 4</em>
+            </p>
+            <p>
+                <ul>
+                    <li>
+                        <p>
+                            <em>4a:  Standard Normal Variables</em>
+                        </p>
+                        <p>
+                            I can compute probabilities given bounds, and bounds given probabilities for the standard normal variable.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <em>4b:  General Normal Distribution</em>
+                        </p>
+                        <p>
+                            I can compute probabilities given bounds, and bounds given probabilities for general normal variables.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <em>4c:  Binomial Distribution</em>
+                        </p>
+                        <p>
+                            I can compute probabilities for binomial random variables.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </li>
+
+
+
+        <li>
+            <p>
+                <em>Quiz 5</em>
+            </p>
+            <p>
+                <ul>
+                    <li>
+                        <p>
+                            <em>5a:  Confidence Intervals</em>
+                        </p>
+                        <p>
+                            I can find a confidence interval for the true proportion of a categorical variable, given a sample, and interpret the meaning of this interval.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <em>5b:  Size of Sample:  Proportion</em>
+                        </p>
+                        <p>
+                            I can identify the sample size necessary for a confidence interval to have a given margin of error.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </li>
+
+
+
+        <li>
+            <p>
+                <em>Quiz 6</em>
+            </p>
+            <p>
+                <ul>
+                    <li>
+                        <p>
+                            <em>6a:  Hypothesis Testing</em>
+                        </p>
+                        <p>
+                            I can test a hypothesis about the true proportion of a categorical variable, given a sample: stating the null and alternative hypothesis, computing a p-value, explaining the meaning of the p-value and drawing a conclusion.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <em>6b:  Inference for Single Numerical Variables</em>
+                        </p>
+                        <p>
+                            I can perform hypothesis tests and compute confidence intervals for the means of numerical variables and explain the results.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </li>
+
+
+
+        <li>
+            <p>
+                <em>Quiz 7</em>
+            </p>
+            <p>
+                <ul>
+                    <li>
+                        <p>
+                            <em>7a:  Inference for Difference of Means of Numerical Variables</em>
+                        </p>
+                        <p>
+                            I can perform hypothesis tests and compute confidence intervals for the differences of means of numerical variables, and explain the results.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <em>7b:  Inference for paired Numerical Variables</em>
+                        </p>
+                        <p>
+                            I can perform hypothesis tests and compute confidence intervals for the means of differences of paired numerical variables, and explain the results.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </li>
+
+
+    </ul>
+
+
+
+
+
+</p>
+
+</section>
