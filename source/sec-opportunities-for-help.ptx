@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-opportunities-for-help" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Opportunities for Help</title>
+
+  <subsection xml:id="subsec-office-hours">
+    <title>Office Hours</title>
+
+    <p>
+        I encourage you to come to my office hours!  They are a good opportunity to ask questions, get additional explanations or help with course work!
+    </p>
+    <p>
+        Look at <xref ref="sec-instructor-info"/> to see times for in-person and online office hours.
+    </p>
+    
+  </subsection>
+
+
+
+  <subsection xml:id="subsec-tutoring">
+    <title>Tutoring</title>
+
+    <p>
+        Free tutoring is available both in Dwire and in the Excel Math Center.
+    </p>
+    <p>
+        <ul>
+            <li>
+                <p>
+                    QUAN Tutoring in Dwire:  ...insert link to schedule....
+                </p>
+            </li>
+            <li>
+                <p>
+                    Excel Math Center:  <url href="https://mathcenter.uccs.edu/" />
+                </p>
+            </li>
+        </ul>
+    </p>
+    
+  </subsection>
+
+
+
+
+
+</section>

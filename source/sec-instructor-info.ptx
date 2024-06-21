@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-instructor-info" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Instructor Information</title>
+
+  <p> Welcome to QUAN 2010! </p>
+
+  <p>
+    <em>Instructor:</em>  Dr. Lauren M. Nelsen
+  </p>
+  <p>
+    <em>Email:</em>	lnelsen@uccs.edu  (Note that Nelsen is spelled “en” instead of “on” at the end.)
+  </p>
+  <p>
+    <em>Office Location:</em>		Dwire Hall #362
+  </p>
+  <p>
+    <em>Office Hours:</em>
+    <ul>
+        <li>
+            <p>
+                <em>In-person office hours:</em> TBA
+            </p>
+        </li>
+        <li>
+            <p>
+                <em>Online office house:</em> TBA (Go to the <q>Zoom</q> tab on Canvas.)
+            </p>
+        </li>
+        <li>
+            <p>
+                <em>Course Location:</em>  	Dwire Hall Room 122
+            </p>
+        </li>
+    </ul>
+  </p>
+
+
+  <subsection xml:id="subsec-course-communication">
+    <title>Course Communication</title>
+
+
+    <p>
+        I do my best to reply to emails within 24 hours, but on weekends it may take longer.
+    </p>
+    <p>
+        I will use both Canvas and email to communicate with the class.
+    </p>
+    
+  </subsection>
+
+
+
+
+
+</section>

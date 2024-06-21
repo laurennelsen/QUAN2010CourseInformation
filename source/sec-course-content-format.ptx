@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-course-content-format" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Course Content and Format</title>
+
+
+<subsection xml:id="subsec-course-description">
+    <title>Course Description</title>
+
+    <p>
+        Statistical applications in business. Includes descriptive statistics, probability distributions, sampling theory, estimation, hypothesis testing, and simple and multiple regression. 
+    </p>
+    <p>
+        <em>Prerequisite Information: 
+        </em>
+    </p>
+    <p>
+        Prer., INFS 1100; MATH 1040, Sophomore standing or MATH 1120, Business students only
+    </p>
+    
+</subsection>
+
+
+<subsection xml:id="subsec-course-format">
+    <title>Course Format</title>
+
+    <p>
+        The course will meet in person in Dwire Hall 122 (A tentative schedule is included later in the syllabus.)  On Canvas, the course is organized by weekly modules. 
+    </p>
+    <p>
+        I will provide you with blank notes, Excel templates that go along with the notes, and homework problems to work in MyLab Statistics.  Here is the routine I recommend you follow to get the most out of this course:
+<ul>
+    <li>
+        <p>
+           Read the assigned sections of the book from the attached schedule and fill in the definitions on the blank notes.
+
+        </p>
+    </li>
+    <li>
+        <p>
+           Come to class meetings and work the example problems on the notes alongside me.
+        </p>
+    </li>
+    <li>
+        <p>
+            Complete your MyLab Statistics homework assignments.
+        </p>
+    </li>
+    <li>
+        <p>
+           Look at quiz objectives before each quiz.
+        </p>
+    </li>
+</ul>
+
+    </p>
+    
+</subsection>
+
+
+<subsection xml:id="subsec-learning-objectives">
+    <title>Course Learning Objectives</title>
+
+    <p>
+        Upon successful completion of this course:
+    </p>
+    <p>
+        <ul>
+            <li>
+                <p>
+                  Students will demonstrate the appropriate graphical and numerical descriptive statistics to summarize different types of data.
+
+                </p>
+            </li>
+            <li>
+                <p>
+                   Students will apply basic probability and probability distribution concepts to business scenarios.
+
+                </p>
+            </li>
+            <li>
+                <p>
+                 Students will utilize tools of inferential statistics to estimate population parameters and test claims made about population parameters within business contexts.
+
+                </p>
+            </li>
+            <li>
+                <p>
+                  Students will build and assess regression models to analyze relationships between variables.
+
+                </p>
+            </li>
+            <li>
+                <p>
+                   Students will perform data analysis by selecting the appropriate quantitative tool (Microsoft Excel).
+
+                </p>
+            </li>
+        </ul>
+    </p>
+
+
+
+
+    
+</subsection>
+
+
+
+</section>

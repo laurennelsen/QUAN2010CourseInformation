@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-required-materials" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Required Materials</title>
+
+<subsection xml:id="subsec-required-materials">
+    <title>Required Texts/Readings/Materials</title>
+
+    <p>
+        <ul>
+            <li>
+                <p>
+                  Business Statistics, 3rd edition, by Robert A. Donnelly, Jr. with MyLab Statistics subscription.  (ISBN 9780136421443).  You can access this book through Vitalscource in Canvas.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Microsoft Excel with the Data Analysis Add-In enabled.
+                </p>
+            </li>
+        </ul>
+    </p>
+    
+</subsection>
+
+
+<subsection xml:id="subsec-technology">
+    <title>Technology Requirements</title>
+
+    <p>
+        This course requires the use of a UCCS email account, a computer/laptop, and a reliable internet connection. Review the <url href="https://oit.uccs.edu/services/personal-computing-and-devices/stupurchasing">UCCS Online Technical Requirements</url>  for exact specifications. Communication will be by UCCS email and Canvas. If your UCCS email is not your primary address, consider <url href="https://support.microsoft.com/en-us/office/use-rules-to-automatically-forward-messages-45aa9664-4911-4f96-9663-ece42816d746">forwarding your UCCS email address to another account</url> you check often. All official course information must be sent through your UCCS account or Canvas.
+    </p>
+    <p>
+        (We will be meeting in a computer lab, so it's okay if you don't have a personal computer -- you can use a computer in our classroom.  But you are still expected to check email/Canvas regularly.)
+    </p>
+    
+</subsection>
+
+<subsection xml:id="subsec-tech-competencies">
+    <title>Technology Competencies</title>
+
+    <p>
+        You are expected to begin this course with basic computing skills that include using Canvas, Microsoft Word, accessing online research databases, and corresponding using your UCCS email. Knowledge of certain multimedia tools, such as PowerPoint or other audio/video platforms is a plus. See UCCS Online Technical Skills for more information. 
+    </p>
+    
+</subsection>
+
+</section>
