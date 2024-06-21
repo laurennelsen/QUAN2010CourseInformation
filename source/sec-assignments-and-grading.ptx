@@ -9,6 +9,8 @@
     <p> <em>Grading Category Weights:</em>
     </p>
     <p>
+        <table>
+            <title>Grading Category Weights</title>
         <tabular>
             <row>
                 <cell>Quiz Objectives</cell>
@@ -39,6 +41,7 @@
                 <cell><m>100\%</m></cell>
             </row>
         </tabular>
+        </table>
     </p>
 
 
@@ -186,6 +189,90 @@
 
 
 
+    
+</subsection>
+
+
+
+<subsection xml:id="subsec-attendance">
+    <title>Attendance</title>
+
+    <p>
+        It is the expectation of the College of Business that students will attend all classes. However, specific classroom attendance policies are left to the discretion of the instructors. Students are responsible for knowing the attendance policies of their individual instructors. Business instructors may drop students who do not attend the first class of the semester. This policy allows waitlisted students who do attend the first class to be added to the class. Students registering for classes after the first class must obtain approval from the instructor prior to enrolling in the class.
+    </p>
+    <p>
+Class attendance is an important part of the educational process in this course.  Our class time is valuable, and you’re expected to attend class regularly if you are able (and not sick).  Talk to me if you have concerns about this.  
+</p>
+<p>
+The material builds on itself, so I really don’t want you to fall behind.  If something comes up, such as illness, that prevents you from attending class, then let me know as soon as possible.
+
+    </p>
+    
+</subsection>
+
+
+<subsection xml:id="subsec-grading-scale">
+    <title>Grading Scale</title>
+
+    <p>
+        <table>
+            <title>Grading Scale</title>
+            <tabular>
+                <row header="yes">
+                    <cell>Percent</cell>
+                    <cell>Grade</cell>
+                </row>
+                <row>
+                    <cell><m>93-100\%</m></cell>
+                    <cell>A</cell>
+                </row>
+                <row>
+                    <cell><m>90-92.99\%</m></cell>
+                    <cell>A-</cell>
+                </row>
+                <row>
+                    <cell><m>87-89.99\%</m></cell>
+                    <cell>B+</cell>
+                </row>
+                <row>
+                    <cell><m>83-86.99\%</m></cell>
+                    <cell>B</cell>
+                </row>
+                <row>
+                    <cell><m>80-82.99\%</m></cell>
+                    <cell>B-</cell>
+                </row>
+                <row>
+                    <cell><m>77-79.99\%</m></cell>
+                    <cell>C+</cell>
+                </row>
+                <row>
+                    <cell><m>73-76.99\%</m></cell>
+                    <cell>C</cell>
+                </row>
+                <row>
+                    <cell><m>70-72.99\%</m></cell>
+                    <cell>C-</cell>
+                </row>
+                <row>
+                    <cell><m>67-69.99\%</m></cell>
+                    <cell>D+</cell>
+                </row>
+                <row>
+                    <cell><m>63-66.9\%</m></cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell><m>60-62.99\%</m></cell>
+                    <cell>D-</cell>
+                </row>
+                <row>
+                    <cell><m>\lt 60\%</m></cell>
+                    <cell>F</cell>
+                </row>
+            </tabular>
+        </table>
+    </p>
     
 </subsection>
 
