@@ -3,10 +3,13 @@
 <section xml:id="sec-instructor-info" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Instructor Information</title>
 
+  <introduction>
   <p> Welcome to QUAN 2010! </p>
+  </introduction>
 
-<myopenmath problem="7111">
-</myopenmath>
+
+
+
 
   <p>
     <em>Instructor:</em>  Dr. Lauren M. Nelsen
