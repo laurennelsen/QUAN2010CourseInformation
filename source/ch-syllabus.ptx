@@ -4,7 +4,23 @@
   <title>Syllabus</title>
 
   <introduction>
-    <p> Text before the first section. </p>
+    <ul>
+      <li>
+        <p>
+          QUAN 2010 Section 1:  Tuesdays 8am-10:40am
+        </p>
+      </li>
+      <li>
+        <p>
+          QUAN 2010 Section 2:  Tuesdays 1:40pm-4:20pm
+        </p>
+      </li>
+      <li>
+        <p>
+          QUAN 2010 Section 3:  Thursdays 8am-10:40am
+        </p>
+      </li>
+    </ul>
   </introduction>
 
   <!-- include sections -->
