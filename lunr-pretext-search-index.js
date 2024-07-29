@@ -160,7 +160,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Quiz 4 Example Problems",
-  "body": " Quiz 4 Example Problems  Below are example problems for Quiz 4.      Solutions     Excel files and\/or written work for solutions:        Videos of Solutions:    Objective 4a:         Objective 4b:             "
+  "body": " Quiz 4 Example Problems  Below are example problems for Quiz 4.      Solutions     Excel files and\/or written work for solutions:        Videos of Solutions:    Objective 4a:         Objective 4b:         Objective 4c:             "
 },
 {
   "id": "sec-quiz-5",
