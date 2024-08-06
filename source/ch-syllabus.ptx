@@ -24,6 +24,7 @@
   </introduction>
 
   <!-- include sections -->
+   <xi:include href="sec-COB-mission.ptx" />
    <xi:include href="sec-instructor-info.ptx" />
    <xi:include href="sec-opportunities-for-help.ptx" />
    <xi:include href="sec-course-content-format.ptx" />
