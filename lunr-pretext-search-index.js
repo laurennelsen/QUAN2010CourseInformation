@@ -199,6 +199,33 @@ var ptx_lunr_docs = [
   "body": " Quiz 7 Example Problems  Below are example problems for Quiz 7.      Solutions     Excel files and\/or written work for solutions:         Videos of Solutions:    Objective 7a:         Objective 7b:             "
 },
 {
+  "id": "sec-exam-1-info",
+  "level": "1",
+  "url": "sec-exam-1-info.html",
+  "type": "Section",
+  "number": "",
+  "title": "Exam 1 Information",
+  "body": " Exam 1 Information  More information to come.  "
+},
+{
+  "id": "sec-exam-2-info",
+  "level": "1",
+  "url": "sec-exam-2-info.html",
+  "type": "Section",
+  "number": "",
+  "title": "Exam 2 Information",
+  "body": " Exam 2 Information  More information to come.  "
+},
+{
+  "id": "sec-final-exam-info",
+  "level": "1",
+  "url": "sec-final-exam-info.html",
+  "type": "Section",
+  "number": "",
+  "title": "Final Exam Information",
+  "body": " Final Exam Information  More information to come.  "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
