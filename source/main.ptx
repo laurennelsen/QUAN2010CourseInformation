@@ -14,6 +14,7 @@
     <!-- Include chapters -->
      <xi:include href="./ch-syllabus.ptx" />
     <xi:include href="./ch-quiz-problems.ptx" />
+    <xi:include href="./ch-exam-info.ptx" />
 
 
     <!-- Include backmatter -->
