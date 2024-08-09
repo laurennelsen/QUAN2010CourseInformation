@@ -82,6 +82,15 @@ var ptx_lunr_docs = [
   "body": " Grading Scale    Percent  Grade     A     A-     B+     B     B-     C+     C     C-     D+     D     D-     F    "
 },
 {
+  "id": "sec-accessing-homework",
+  "level": "1",
+  "url": "sec-accessing-homework.html",
+  "type": "Section",
+  "number": "",
+  "title": "Accessing MyLab Homework",
+  "body": " Accessing MyLab Homework   To access the homework, go to the VitalSource tab on Canvas. Here are instructions for how to do this:      After doing this, you should also be able to access individual assignments through the links in Canvas. However, after the due date passes, you might still want to go back and look at previous assignments. To do that, you will want to access MyLab through the VitalSource tab on Canvas instead of through the individual assignment links. Then you should be able to go look at the MyLab gradebook and see previous assignments.  The due dates for assignments in MyLab should match what is shown in the syllabus. However, if you miss a due date, I still want you to do the homework and get a chance to practice what we're learning. So until December 13th assignments will allow you to continue working on them for full credit. I encourage you to still try to complete assignments by the deadlines! But I hope this is helpful if you do fall a little behind.  To continue working on an assignment after the due date , choose the improve my score option.  "
+},
+{
   "id": "sec-inclusive-environment",
   "level": "1",
   "url": "sec-inclusive-environment.html",
