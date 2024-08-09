@@ -30,6 +30,7 @@
    <xi:include href="sec-course-content-format.ptx" />
    <xi:include href="sec-required-materials.ptx" />
    <xi:include href="sec-assignments-and-grading.ptx" />
+   <xi:include href="sec-accessing-homework.ptx" />
    <xi:include href="sec-inclusive-environment.ptx" />
    <xi:include href="sec-student-services.ptx" />
    <xi:include href="sec-policies.ptx" />
