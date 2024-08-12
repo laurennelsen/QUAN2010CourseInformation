@@ -214,7 +214,97 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Exam 1 Information",
-  "body": " Exam 1 Information  More information to come.  "
+  "body": " Exam 1 Information  Exam 1 will take place in class on the day listed in the syllabus ( ).    The exam will cover Chapters 2, 3, 4, 5, 6, and 7(Part 1) from the textbook, which are Chapters 2-7 in the course notes ( Link to course notes )    You will have 120 minutes for the exam.    You may use an 8.5 inch by 11 inch page of notes (front and back), a blank Excel spreadsheet, blank scratch paper, and a scientific (or simpler) calculator.    You are NOT allowed to use other people's work or search internet sits while taking the test. If you share you answers and others use them, both you and the students you shared with may receive a zero for the exam and may fail the course.    Unless otherwise indicated, you must show steps that demonstrate the process you take to get to the final answer. If you use an Excel formula, provide that formula as part of your answer.  Credit will be given for not only the final answer, but the work\/justification that supports that answer.    If you have a question during the exam, ask me! It is much better to ask right away than to stay stuck for a long time.     Exam 1 Format  The exam will be partially on Canvas and partially on paper.      Part 1: On Canvas   This part of the exam will have the following problems\/types of problems:    Multiple choice problems from these chapters     Histogram: You will be given a dataset and asked to construct a histogram and describe the shape. You will need to do all of your work in Excel and upload the file to Canvas. (Be sure to give your histogram a title and label your axes. Also remember to follow all of the best practices for histograms discussed in class and in our textbook. This means that you should use the Rule to find the number of bins, and remember to include all of your work and label everything clearly.)     Box-and-whisker plot: You will be given a dataset and asked to construct a box-and-whisker plot for the data. You will need to list the values of the first three quartiles: Q1, Q2, and Q3 and identify any outliers in the data. You will need to do all of your work in Excel and upload the file to Canvas. (This is similar to parts of quiz objective .)        Part 2: On paper   This part of the exam may have some or all of the following problems\/types of problems. (The exam may have all of these types of problems or a subset of these types of problems. Some of these problems might not have all the parts that were on corresponding quiz\/homework problems.) Examples of these problems are shown below under .    Problems similar to quiz outcomes and   ( Link to example solutions for 2a )  ( Link to example solutions for 3a )     Also be able to find sample standard deviation and sample variance      Problem using Chebyshev's Theorem (similar to Exercise 3.3.11(d) in the Course Notes  )     Problem like Question 25 from the Week 3 Homework      Quiz outcome (first two parts)   ( Link to example solutions )     Week 4 Homework Question 4      Week 5 Homework Question 1      Quiz outcome ( Link to example solutions )     Exercise 7.1.14 from the Course Notes ( )          Suggestions for Study  Look over all of your class notes and make sure you understand everything we have talked about. Look back at these chapters\/problems in the textbook. Review the MyLab homework and the quiz problems. (I do not guarantee that all exam questions will look exactly like one of those problems.)      Quiz outcome :   Consider the following list of data:    Find the mean of this data set.   The mean is . (On the exam, be sure to show your work or what Excel command(s) you used.)   Find the median of this data set.   The median is . (On the exam, be sure to show your work\/justification or what Excel command(s) you used.)   Find the mode(s) of this data set.   The mode(s): . (On the exam, be sure to show your work\/justification or what Excel command(s) you used.)   Identify whether or not there may be left or right skew in this data set, and explain how you determined this.   right skew since the mean is bigger than the median     Quiz outcome :   The airline industry defines an on-time flight as one that arrives within 15 minutes of its scheduled time. The following table shows the number of on-time and late flights leaving Philadelphia and arriving in Orlando during a recent time period by airline:     Airline  On-Time Flights  Late Flights    Southwest  240  70    American  260  140    Frontier  170  65      What is the probability that a randomly selected flight was from American and was on time?      Airline  On-Time Flights  Late Flights  Totals:    Southwest  240  70  310    American  260  140  400    Frontier  170  65  235    Totals:  670  275  945         What is the probability that a randomly selected flight was from Southwest or was on time?       Given that the flight was late, what is the probability that it was from Frontier?       Given that the flight was from Frontier, what is the probability that it was late?        Consider the following list of data:    Find the sample standard deviation of this data set.   In Excel: =STDEV.S(58, 67, 67, 82, 91, 92, 92, 103, 110, 178,)  The sample standard deviation is .   Find the sample variance of this data set.   In Excel: =VAR.S(58, 67, 67, 82, 91, 92, 92, 103, 110, 178,)  The sample variance is .     Problem using Chebyshev's Theorem (similar to Exercise 3.3.11(d) in the Course Notes )   Assume the average selling price for houses in a certain county is with a standard deviation of .  Using Chebyshev's Theorem, determine the range of prices that includes at least of the homes around the mean. (Using Chebyshev's Theorem, we don't need to assume anything about how the prices are distributed.)           So the range of prices including values within of the mean will include at least of the homes.          Problem like Question 25 from the Week 3 Homework   Suppose that a poll finds that of taxpayers who filed their tax return electronically​ self-prepared their taxes. If three tax returns submitted electronically are randomly​ selected, what is the probability that all three were​ self-prepared?         Quiz outcome (first two parts)   (For this problem, round each answer to 4 decimal places. Do not round until you have the final answer.)  Consider store that sells primarily PCs. Each customer that comes in may buy one, none or several PCs. Let denote the number of PCs a customer who comes into the store purchases. Consider the following probability distribution table for :      0  1  2  3     ???  0.374  0.09  0.02      What is the value of the missing entry?       Find the expected value of , .      (What does this mean?)     Week 4 Homework Question 4   Consider a binomial probability distribution with and . What is the probability of the following?   exactly twenty successes ( )       less than fifteen successes ( )       less than or equal to fifteen successes ( )       between 17 and 30 successes ( )       more than 10 successes ( )       at least 10 successes ( )         Week 5 Homework Question 1   The average daily revenue at a local small business is . The following list is a random sample of the business's daily revenue from five different days.   Calculate the sampling error for this sample.      Sampling error:      Quiz outcome   Let be the standard normal variable. Find the following, and round your answer to four decimal places:                            such that         such that         such that               Exercise 7.1.14 from the Course Notes ( )  A random variable follows the normal probability distribution with a mean of 80 and a standard deviation of 6.   What is the probability that a randomly selected value from this population is greater than or equal to 70?       What is the probability that a randomly selected value from this population is less than 70?       What is the probability that a randomly selected value from this population is between 75 and 85?        "
+},
+{
+  "id": "exercises-exam-1-practice-1",
+  "level": "2",
+  "url": "sec-exam-1-info.html#exercises-exam-1-practice-1",
+  "type": "Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Quiz outcome :   Consider the following list of data:    Find the mean of this data set.   The mean is . (On the exam, be sure to show your work or what Excel command(s) you used.)   Find the median of this data set.   The median is . (On the exam, be sure to show your work\/justification or what Excel command(s) you used.)   Find the mode(s) of this data set.   The mode(s): . (On the exam, be sure to show your work\/justification or what Excel command(s) you used.)   Identify whether or not there may be left or right skew in this data set, and explain how you determined this.   right skew since the mean is bigger than the median  "
+},
+{
+  "id": "exercises-exam-1-practice-2",
+  "level": "2",
+  "url": "sec-exam-1-info.html#exercises-exam-1-practice-2",
+  "type": "Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Quiz outcome :   The airline industry defines an on-time flight as one that arrives within 15 minutes of its scheduled time. The following table shows the number of on-time and late flights leaving Philadelphia and arriving in Orlando during a recent time period by airline:     Airline  On-Time Flights  Late Flights    Southwest  240  70    American  260  140    Frontier  170  65      What is the probability that a randomly selected flight was from American and was on time?      Airline  On-Time Flights  Late Flights  Totals:    Southwest  240  70  310    American  260  140  400    Frontier  170  65  235    Totals:  670  275  945         What is the probability that a randomly selected flight was from Southwest or was on time?       Given that the flight was late, what is the probability that it was from Frontier?       Given that the flight was from Frontier, what is the probability that it was late?      "
+},
+{
+  "id": "exercises-exam-1-practice-3",
+  "level": "2",
+  "url": "sec-exam-1-info.html#exercises-exam-1-practice-3",
+  "type": "Exercise",
+  "number": "3",
+  "title": "",
+  "body": " Consider the following list of data:    Find the sample standard deviation of this data set.   In Excel: =STDEV.S(58, 67, 67, 82, 91, 92, 92, 103, 110, 178,)  The sample standard deviation is .   Find the sample variance of this data set.   In Excel: =VAR.S(58, 67, 67, 82, 91, 92, 92, 103, 110, 178,)  The sample variance is .  "
+},
+{
+  "id": "exercises-exam-1-practice-4",
+  "level": "2",
+  "url": "sec-exam-1-info.html#exercises-exam-1-practice-4",
+  "type": "Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Problem using Chebyshev's Theorem (similar to Exercise 3.3.11(d) in the Course Notes )   Assume the average selling price for houses in a certain county is with a standard deviation of .  Using Chebyshev's Theorem, determine the range of prices that includes at least of the homes around the mean. (Using Chebyshev's Theorem, we don't need to assume anything about how the prices are distributed.)           So the range of prices including values within of the mean will include at least of the homes.       "
+},
+{
+  "id": "exercises-exam-1-practice-5",
+  "level": "2",
+  "url": "sec-exam-1-info.html#exercises-exam-1-practice-5",
+  "type": "Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  Problem like Question 25 from the Week 3 Homework   Suppose that a poll finds that of taxpayers who filed their tax return electronically​ self-prepared their taxes. If three tax returns submitted electronically are randomly​ selected, what is the probability that all three were​ self-prepared?      "
+},
+{
+  "id": "exercises-exam-1-practice-6",
+  "level": "2",
+  "url": "sec-exam-1-info.html#exercises-exam-1-practice-6",
+  "type": "Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  Quiz outcome (first two parts)   (For this problem, round each answer to 4 decimal places. Do not round until you have the final answer.)  Consider store that sells primarily PCs. Each customer that comes in may buy one, none or several PCs. Let denote the number of PCs a customer who comes into the store purchases. Consider the following probability distribution table for :      0  1  2  3     ???  0.374  0.09  0.02      What is the value of the missing entry?       Find the expected value of , .      (What does this mean?)  "
+},
+{
+  "id": "exercises-exam-1-practice-7",
+  "level": "2",
+  "url": "sec-exam-1-info.html#exercises-exam-1-practice-7",
+  "type": "Exercise",
+  "number": "7",
+  "title": "",
+  "body": "  Week 4 Homework Question 4   Consider a binomial probability distribution with and . What is the probability of the following?   exactly twenty successes ( )       less than fifteen successes ( )       less than or equal to fifteen successes ( )       between 17 and 30 successes ( )       more than 10 successes ( )       at least 10 successes ( )      "
+},
+{
+  "id": "exercises-exam-1-practice-8",
+  "level": "2",
+  "url": "sec-exam-1-info.html#exercises-exam-1-practice-8",
+  "type": "Exercise",
+  "number": "8",
+  "title": "",
+  "body": "  Week 5 Homework Question 1   The average daily revenue at a local small business is . The following list is a random sample of the business's daily revenue from five different days.   Calculate the sampling error for this sample.      Sampling error:   "
+},
+{
+  "id": "exercises-exam-1-practice-9",
+  "level": "2",
+  "url": "sec-exam-1-info.html#exercises-exam-1-practice-9",
+  "type": "Exercise",
+  "number": "9",
+  "title": "",
+  "body": "  Quiz outcome   Let be the standard normal variable. Find the following, and round your answer to four decimal places:                            such that         such that         such that             "
+},
+{
+  "id": "exercises-exam-1-practice-10",
+  "level": "2",
+  "url": "sec-exam-1-info.html#exercises-exam-1-practice-10",
+  "type": "Exercise",
+  "number": "10",
+  "title": "",
+  "body": " Exercise 7.1.14 from the Course Notes ( )  A random variable follows the normal probability distribution with a mean of 80 and a standard deviation of 6.   What is the probability that a randomly selected value from this population is greater than or equal to 70?       What is the probability that a randomly selected value from this population is less than 70?       What is the probability that a randomly selected value from this population is between 75 and 85?      "
 },
 {
   "id": "sec-exam-2-info",
@@ -223,7 +313,61 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Exam 2 Information",
-  "body": " Exam 2 Information  More information to come.  "
+  "body": " Exam 2 Information  Exam 2 will take place in class on the day listed in the syllabus ( ).    The exam will cover Chapters 7(Part 2), 8, 9, 13, and 10 from the textbook, which are Chapters 8-12 in the course notes ( Link to course notes )    You will have 120 minutes for the exam.    You may use an 8.5 inch by 11 inch page of notes (front and back), a blank Excel spreadsheet, blank scratch paper, and a scientific (or simpler) calculator.    You are NOT allowed to use other people's work or search internet sits while taking the test. If you share you answers and others use them, both you and the students you shared with may receive a zero for the exam and may fail the course.    Unless otherwise indicated, you must show steps that demonstrate the process you take to get to the final answer. If you use an Excel formula, provide that formula as part of your answer.  Credit will be given for not only the final answer, but the work\/justification that supports that answer.    If you have a question during the exam, ask me! It is much better to ask right away than to stay stuck for a long time.     Exam 2 Format  The exam will be partially on Canvas and partially on paper.      Part 1: On Canvas   This part of the exam will have the following problems\/types of problems:    Multiple choice problems from these chapters        Part 2: On paper   This part of the exam may have some or all of the following problems\/types of problems. (The exam may have all of these types of problems or a subset of these types of problems. Some of these problems might not have all the parts that were on corresponding quiz\/homework problems.) Examples of these problems are shown below under .    Exercises 8.2.2 and 8.2.3 from the Course Notes ( )     Quiz outcome : ( Link to example solutions )     Quiz outcome : ( Link to example solutions )     Quiz outcome : ( Link to example solutions )     Week 10 HW Question 10      Week 10 HW Question 13           Suggestions for Study  Look over all of your class notes and make sure you understand everything we have talked about. Look back at these chapters\/problems in the textbook. Review the MyLab homework and the quiz problems. (I do not guarantee that all exam questions will look exactly like one of those problems.)      Exercises 8.2.2 and 8.2.3 from the Course Notes: ( )   For a normal population with a mean equal to 87 and a standard deviation equal to 26, determine the probability of observing a sample mean of 90 or less from a sample of size 15.       For a population that is left-skewed with a mean of 21 and a standard deviation equal to 15, determine the probability of observing a sample mean of 18 or more from a sample of size 33.         Quiz outcome :   A company wondered if people liked the user interface of their upgraded website. They survey a random selection of their customers.  Suppose that for surveyed customers, 32 preferred the new user interface.   Find a confidence interval for the proportion of all the company's customers that prefer the new interface.    ,         Convidence interval formula:   The confidence interval is approximately:    Suppose the company claims that at least of all the company's customers prefer the new interface. Does the confidence interval you found support this claim? Explain why or why not.   No, it does not. We are confident that is between and , and is larger than .     Quiz outcome :   A CEO is curious if the proportion of employees that are satisfied with their job is greater than . They conduct a survey of employees. Suppose that for surveyed employees, 125 were satisfied with their job. Use and test the hypothesis that the proportion of all employees that are satisfied with their job is greater than .   State the null hypothesis.       State the alternative hypothesis.     (right-tail test)   Find the appropriate test statistic.       What is the p-value?       What do we conclude and why? Do we have enough evidence to conclude that the proportion of employees that are satisfied with their job is greater than ? Why or why not?   Since the p-value is bigger than , we fail to reject the null hypothesis. So there is not enough evidence to conclude that the proportion of employees that are satisfied with their job is greater than .     Quiz outcome :   A farmer is curious about the effects of a new fertilizer on the height of her corn stalks. She measures the heights of a random selection of her stalks. Out of 55 measured corn stalks, the sample average height is meters, with sample standard deviation meters. Use and test the hypothesis that the average height of her corn stalks is not equal to meters.   State the null hypothesis.       State the alternative hypothesis.       Find the appropriate test statistic.       What is the p-value?   (This is a two-tail test.)     (or: )   What do we conclude and why? Do we have enough evidence to conclude that the average height of her corn stalks is not equal to 2.3 meters?   Since the p-value is less than , we reject the null hypothesis. So we do have enough evidence to conclude that the average height is not equal to 2.3 meters.     Week 10 HW Question 10:   Consider the hypothesis statment given below:    Assume that , , and .   Calculate the appropriate test statistic.       Determine the appropriate critical value(s).   (This is a right-tailed test.)      Should you reject the null hypothesis or fail to reject the null hypothesis?   Since the test statistic is in the rejection region, we should reject the null hypothesis. (It might help to draw a picture to see this.)   Is there sufficient evidence to conclude that the population variance is greater than 7.0?   Yes! Since we rejected the null hypothesis, there is enough evidence to conclude that .     Week 10 HW Question 13:   Suppose a student has two possible routes for their commute to school. Because they never want to be late for class, they want to choose the route that provides a more consistent commute time. Being a hopeless statistician, the student meticulously drove the first route 20 times and the second route 25 times and calculated the standard deviations for each. The following table summarizes sample data collected from two different routes.      Route A  Route B    sample standard deviation  6.5 minutes  10.4 minutes    sample size  25  20      Using , we want to determine if Route A provides a more consistent commute time than Route B. First, state the null alternative hypotheses. (Let represent the larger sample variance and represent the smaller sample variance.)   (Since Route B has the bigger sample standard deviation, Route B is Population 1 and Route A is Population 2 .)         Calculate the appropriate test statistic.       Calculate the appropriate critical value (using ).       What can we conclude? Do we have enough evidence to conclude that Route A provides a more consistent commute time than Route B? Why or why not?   Since the test statistic is in the rejection region, we reject the null hypothesis and have enough evidence to conclude that Route A provides a more consistent commute time than Route B.    "
+},
+{
+  "id": "exercises-exam-2-practice-1",
+  "level": "2",
+  "url": "sec-exam-2-info.html#exercises-exam-2-practice-1",
+  "type": "Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Exercises 8.2.2 and 8.2.3 from the Course Notes: ( )   For a normal population with a mean equal to 87 and a standard deviation equal to 26, determine the probability of observing a sample mean of 90 or less from a sample of size 15.       For a population that is left-skewed with a mean of 21 and a standard deviation equal to 15, determine the probability of observing a sample mean of 18 or more from a sample of size 33.      "
+},
+{
+  "id": "exercises-exam-2-practice-2",
+  "level": "2",
+  "url": "sec-exam-2-info.html#exercises-exam-2-practice-2",
+  "type": "Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Quiz outcome :   A company wondered if people liked the user interface of their upgraded website. They survey a random selection of their customers.  Suppose that for surveyed customers, 32 preferred the new user interface.   Find a confidence interval for the proportion of all the company's customers that prefer the new interface.    ,         Convidence interval formula:   The confidence interval is approximately:    Suppose the company claims that at least of all the company's customers prefer the new interface. Does the confidence interval you found support this claim? Explain why or why not.   No, it does not. We are confident that is between and , and is larger than .  "
+},
+{
+  "id": "exercises-exam-2-practice-3",
+  "level": "2",
+  "url": "sec-exam-2-info.html#exercises-exam-2-practice-3",
+  "type": "Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Quiz outcome :   A CEO is curious if the proportion of employees that are satisfied with their job is greater than . They conduct a survey of employees. Suppose that for surveyed employees, 125 were satisfied with their job. Use and test the hypothesis that the proportion of all employees that are satisfied with their job is greater than .   State the null hypothesis.       State the alternative hypothesis.     (right-tail test)   Find the appropriate test statistic.       What is the p-value?       What do we conclude and why? Do we have enough evidence to conclude that the proportion of employees that are satisfied with their job is greater than ? Why or why not?   Since the p-value is bigger than , we fail to reject the null hypothesis. So there is not enough evidence to conclude that the proportion of employees that are satisfied with their job is greater than .  "
+},
+{
+  "id": "exercises-exam-2-practice-4",
+  "level": "2",
+  "url": "sec-exam-2-info.html#exercises-exam-2-practice-4",
+  "type": "Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Quiz outcome :   A farmer is curious about the effects of a new fertilizer on the height of her corn stalks. She measures the heights of a random selection of her stalks. Out of 55 measured corn stalks, the sample average height is meters, with sample standard deviation meters. Use and test the hypothesis that the average height of her corn stalks is not equal to meters.   State the null hypothesis.       State the alternative hypothesis.       Find the appropriate test statistic.       What is the p-value?   (This is a two-tail test.)     (or: )   What do we conclude and why? Do we have enough evidence to conclude that the average height of her corn stalks is not equal to 2.3 meters?   Since the p-value is less than , we reject the null hypothesis. So we do have enough evidence to conclude that the average height is not equal to 2.3 meters.  "
+},
+{
+  "id": "exercises-exam-2-practice-5",
+  "level": "2",
+  "url": "sec-exam-2-info.html#exercises-exam-2-practice-5",
+  "type": "Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  Week 10 HW Question 10:   Consider the hypothesis statment given below:    Assume that , , and .   Calculate the appropriate test statistic.       Determine the appropriate critical value(s).   (This is a right-tailed test.)      Should you reject the null hypothesis or fail to reject the null hypothesis?   Since the test statistic is in the rejection region, we should reject the null hypothesis. (It might help to draw a picture to see this.)   Is there sufficient evidence to conclude that the population variance is greater than 7.0?   Yes! Since we rejected the null hypothesis, there is enough evidence to conclude that .  "
+},
+{
+  "id": "exercises-exam-2-practice-6",
+  "level": "2",
+  "url": "sec-exam-2-info.html#exercises-exam-2-practice-6",
+  "type": "Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  Week 10 HW Question 13:   Suppose a student has two possible routes for their commute to school. Because they never want to be late for class, they want to choose the route that provides a more consistent commute time. Being a hopeless statistician, the student meticulously drove the first route 20 times and the second route 25 times and calculated the standard deviations for each. The following table summarizes sample data collected from two different routes.      Route A  Route B    sample standard deviation  6.5 minutes  10.4 minutes    sample size  25  20      Using , we want to determine if Route A provides a more consistent commute time than Route B. First, state the null alternative hypotheses. (Let represent the larger sample variance and represent the smaller sample variance.)   (Since Route B has the bigger sample standard deviation, Route B is Population 1 and Route A is Population 2 .)         Calculate the appropriate test statistic.       Calculate the appropriate critical value (using ).       What can we conclude? Do we have enough evidence to conclude that Route A provides a more consistent commute time than Route B? Why or why not?   Since the test statistic is in the rejection region, we reject the null hypothesis and have enough evidence to conclude that Route A provides a more consistent commute time than Route B.  "
 },
 {
   "id": "sec-final-exam-info",
@@ -232,7 +376,43 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Final Exam Information",
-  "body": " Final Exam Information  More information to come.  "
+  "body": " Final Exam Information  Exam 2 will take place in class on the day listed in the syllabus ( ).    The exam will cover 8, 9, 13, 10, and 14-15 from the textbook, which are Chapters 9-13 in the course notes ( Link to course notes )    You will have 120 minutes for the exam.    You may use an 8.5 inch by 11 inch page of notes (front and back), a blank Excel spreadsheet, blank scratch paper, and a scientific (or simpler) calculator.    You are NOT allowed to use other people's work or search internet sits while taking the test. If you share you answers and others use them, both you and the students you shared with may receive a zero for the exam and may fail the course.    Unless otherwise indicated, you must show steps that demonstrate the process you take to get to the final answer. If you use an Excel formula, provide that formula as part of your answer.  Credit will be given for not only the final answer, but the work\/justification that supports that answer.    If you have a question during the exam, ask me! It is much better to ask right away than to stay stuck for a long time.     Final Exam Format  The exam will be partially on Canvas and partially on paper.      Part 1: On Canvas   This part of the exam will have the following problems\/types of problems:    Multiple choice problems from these chapters. (No work is required to be shown for these.)    After the multiple choice problems, this part of the exam will have questions using Excel files. You will need to do your work in the Excel file, save it, and upload it back on Canvas. This part of the exam will have problems similar to the following:    Quiz Objective : ( Link to example solutions )  You'll need to submit an Excel file with your work for this problem. I'll ask the following things for this problem:   What is the p-value?    Should we reject or fail to reject the null hypothesis?    Is there enough evidence to conclude that the average difference in ... is greater than ... points?        Similar to parts of Questions 1 and 5 from the Week 14 Homework      Week 14 Homework Question 13            Part 2: On paper   This part of the exam will have problems similar to some or all of the following. (Some of these problems might not have all the parts that were on corresponding quiz\/homework problems, and some problems might have more parts to help guide you through the problem.) Note that some of these are similar to problems from Exam 2, so it would be helpful to also look at the similar problems on the exam and talk to me if you have any questions!  (Examples of these problems are below in )      Quiz outcome : ( Link to example solutions )     Quiz outcome : ( Link to example solutions )     Week 10 HW Question 13      Quiz outcome : ( Link to example solutions )  (I will give you a version where we assume that the population variances are not equal. I will also give you the box of formulas below on the exam, and I'll tell you what to use.)              Suggestions for Study  Look over all of your class notes and make sure you understand everything we have talked about. Look back at these chapters\/problems in the textbook. Review the MyLab homework and the quiz problems. (I do not guarantee that all exam questions will look exactly like one of those problems.)      Quiz outcome :   A company wondered if people liked the user interface of their upgraded website. They survey a random selection of their customers.  Suppose that for surveyed customers, 32 preferred the new user interface.   Find a confidence interval for the proportion of all the company's customers that prefer the new interface.    ,         Convidence interval formula:   The confidence interval is approximately:    Suppose the company claims that at least of all the company's customers prefer the new interface. Does the confidence interval you found support this claim? Explain why or why not.   No, it does not. We are confident that is between and , and is larger than .     Quiz outcome :   A CEO is curious if the proportion of employees that are satisfied with their job is greater than . They conduct a survey of employees. Suppose that for surveyed employees, 125 were satisfied with their job. Use and test the hypothesis that the proportion of all employees that are satisfied with their job is greater than .   State the null hypothesis.       State the alternative hypothesis.     (right-tail test)   Find the appropriate test statistic.       What is the p-value?       What do we conclude and why? Do we have enough evidence to conclude that the proportion of employees that are satisfied with their job is greater than ? Why or why not?   Since the p-value is bigger than , we fail to reject the null hypothesis. So there is not enough evidence to conclude that the proportion of employees that are satisfied with their job is greater than .     Week 10 HW Question 13:   Suppose a student has two possible routes for their commute to school. Because they never want to be late for class, they want to choose the route that provides a more consistent commute time. Being a hopeless statistician, the student meticulously drove the first route 20 times and the second route 25 times and calculated the standard deviations for each. The following table summarizes sample data collected from two different routes.      Route A  Route B    sample standard deviation  6.5 minutes  10.4 minutes    sample size  25  20      Using , we want to determine if Route A provides a more consistent commute time than Route B. First, state the null alternative hypotheses. (Let represent the larger sample variance and represent the smaller sample variance.)   (Since Route B has the bigger sample standard deviation, Route B is Population 1 and Route A is Population 2 .)         Calculate the appropriate test statistic.       Calculate the appropriate critical value (using ).       What can we conclude? Do we have enough evidence to conclude that Route A provides a more consistent commute time than Route B? Why or why not?   Since the test statistic is in the rejection region, we reject the null hypothesis and have enough evidence to conclude that Route A provides a more consistent commute time than Route B.     Quiz outcome :       Assume .  A researcher wants to study average commute time for students at UCCS and students at CU Denver. Out of 35 students from CU Denver, the average commute time was , with sample standard deviation minutes. Then out of 30 students from UCCS, the average commute time was minutes, with sample standard deviation minutes.  Assume that the population variances are not equal and that .  We want to test the hypothesis that the difference in the average commute times between CU Denver students and UCCS students is less than 15 minutes.   State the null hypothesis.       State the alternative hypothesis.    ( left-tailed test)   What is the p-value?   test statistic:   p-value:    What do we conclude and why? Do we have enough evidence to conclude that the difference in the average commute times between CU Denver and UCCS students is less than 15 minutes?   Since the p-value ( ) is less than , we reject the null hypothesis, and we have enough evidence to conclude that the difference in average commute times is less than 15 minutes.    "
+},
+{
+  "id": "exercises-final-exam-practice-1",
+  "level": "2",
+  "url": "sec-final-exam-info.html#exercises-final-exam-practice-1",
+  "type": "Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Quiz outcome :   A company wondered if people liked the user interface of their upgraded website. They survey a random selection of their customers.  Suppose that for surveyed customers, 32 preferred the new user interface.   Find a confidence interval for the proportion of all the company's customers that prefer the new interface.    ,         Convidence interval formula:   The confidence interval is approximately:    Suppose the company claims that at least of all the company's customers prefer the new interface. Does the confidence interval you found support this claim? Explain why or why not.   No, it does not. We are confident that is between and , and is larger than .  "
+},
+{
+  "id": "exercises-final-exam-practice-2",
+  "level": "2",
+  "url": "sec-final-exam-info.html#exercises-final-exam-practice-2",
+  "type": "Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Quiz outcome :   A CEO is curious if the proportion of employees that are satisfied with their job is greater than . They conduct a survey of employees. Suppose that for surveyed employees, 125 were satisfied with their job. Use and test the hypothesis that the proportion of all employees that are satisfied with their job is greater than .   State the null hypothesis.       State the alternative hypothesis.     (right-tail test)   Find the appropriate test statistic.       What is the p-value?       What do we conclude and why? Do we have enough evidence to conclude that the proportion of employees that are satisfied with their job is greater than ? Why or why not?   Since the p-value is bigger than , we fail to reject the null hypothesis. So there is not enough evidence to conclude that the proportion of employees that are satisfied with their job is greater than .  "
+},
+{
+  "id": "exercises-final-exam-practice-3",
+  "level": "2",
+  "url": "sec-final-exam-info.html#exercises-final-exam-practice-3",
+  "type": "Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Week 10 HW Question 13:   Suppose a student has two possible routes for their commute to school. Because they never want to be late for class, they want to choose the route that provides a more consistent commute time. Being a hopeless statistician, the student meticulously drove the first route 20 times and the second route 25 times and calculated the standard deviations for each. The following table summarizes sample data collected from two different routes.      Route A  Route B    sample standard deviation  6.5 minutes  10.4 minutes    sample size  25  20      Using , we want to determine if Route A provides a more consistent commute time than Route B. First, state the null alternative hypotheses. (Let represent the larger sample variance and represent the smaller sample variance.)   (Since Route B has the bigger sample standard deviation, Route B is Population 1 and Route A is Population 2 .)         Calculate the appropriate test statistic.       Calculate the appropriate critical value (using ).       What can we conclude? Do we have enough evidence to conclude that Route A provides a more consistent commute time than Route B? Why or why not?   Since the test statistic is in the rejection region, we reject the null hypothesis and have enough evidence to conclude that Route A provides a more consistent commute time than Route B.  "
+},
+{
+  "id": "exercises-final-exam-practice-4",
+  "level": "2",
+  "url": "sec-final-exam-info.html#exercises-final-exam-practice-4",
+  "type": "Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Quiz outcome :       Assume .  A researcher wants to study average commute time for students at UCCS and students at CU Denver. Out of 35 students from CU Denver, the average commute time was , with sample standard deviation minutes. Then out of 30 students from UCCS, the average commute time was minutes, with sample standard deviation minutes.  Assume that the population variances are not equal and that .  We want to test the hypothesis that the difference in the average commute times between CU Denver students and UCCS students is less than 15 minutes.   State the null hypothesis.       State the alternative hypothesis.    ( left-tailed test)   What is the p-value?   test statistic:   p-value:    What do we conclude and why? Do we have enough evidence to conclude that the difference in the average commute times between CU Denver and UCCS students is less than 15 minutes?   Since the p-value ( ) is less than , we reject the null hypothesis, and we have enough evidence to conclude that the difference in average commute times is less than 15 minutes.  "
 },
 {
   "id": "backmatter-2",
