@@ -4,7 +4,507 @@
   <title>Final Exam Information</title>
 
   <p>
-    More information to come.
+   Exam 2 will take place in class on the day listed in the syllabus (<xref ref="sec-course-schedule"/>). 
   </p>
+
+
+  <ul>
+    <li>
+      <p>
+        The exam will cover 8, 9, 13, 10, and 14-15 from the textbook, which are Chapters 9-13 in the course notes (<url href="https://laurennelsen.github.io/QUAN2010/QUAN_2010_Notes.html"> Link to course notes </url>)
+        
+      </p>
+      
+    </li>
+
+
+    <li>
+      <p>
+        You will have 120 minutes for the exam.
+      </p>
+    </li>
+
+<li>
+  <p>
+    You may use an 8.5 inch by 11 inch page of notes (front and back), a blank Excel spreadsheet, blank scratch paper, and a scientific (or simpler) calculator.
+  </p>
+</li>
+
+<li>
+  <p>
+    You are NOT allowed to use other people's work or search internet sits while taking the test.  If you share you answers and others use them, both you and the students you shared with may receive a zero for the exam and may fail the course.
+  </p>
+</li>
+
+
+<li>
+  <p>
+    Unless otherwise indicated, you must show steps that demonstrate the process you take to get to the final answer.  If you use an Excel formula, provide that formula as part of your answer.
+  </p>
+
+  <p>
+    Credit will be given for not only the final answer, but the work/justification that supports that answer.
+
+  </p>
+</li>
+
+
+<li>
+  <p>
+    If you have a question during the exam, ask me!  It is much better to ask right away than to stay stuck for a long time.
+  </p>
+</li>
+
+
+
+  </ul>
+
+
+  <subsection xml:id="subsec-final-exam-format">
+    <title>Final Exam Format</title>
+
+
+    <p>
+      The exam will be partially on Canvas and partially on paper. 
+    </p>
+
+    <p>
+      <ul>
+        <li>
+          <p>
+            <em>Part 1:  On Canvas</em>
+          </p>
+          <p>
+            This part of the exam will have the following problems/types of problems:
+            <ul>
+              <li>
+                <p>
+                  <em>Multiple choice problems</em> from these chapters.  (No work is required to be shown for these.)
+                </p>
+              </li>
+              <li>
+                <p>
+                  After the multiple choice problems, this part of the exam will have questions using Excel files.  You will need to do your work in the Excel file, save it, and upload it back on Canvas.  This part of the exam will have problems similar to the following:
+                  <ul>
+                    <li>
+                      <p>
+                        <em>Quiz Objective <m>\boxed{7b}</m>:</em>  (<url href="https://laurennelsen.github.io/QUAN2010CourseInformation/sec-quiz-7.html"> Link to example solutions </url>)
+                      </p>
+                      <p>
+                        You'll need to submit an Excel file with your work for this problem.  I'll ask the following things for this problem:
+                        <ul>
+                          <li>
+                            <p>
+                              What is the p-value?
+                            </p>
+                          </li>
+                          <li>
+                            <p>
+                              Should we reject or fail to reject the null hypothesis?
+                            </p>
+                          </li>
+                          <li>
+                            <p>
+                              Is there enough evidence to conclude that the average difference in ... is greater than ... points?
+                            </p>
+                          </li>
+                        </ul>
+                      </p>
+                    </li>
+                    <li>
+                      <p>
+                        <em>Similar to parts of Questions 1 and 5 from the Week 14 Homework</em>
+                      </p>
+                    </li>
+                    <li>
+                      <p>
+                        <em>Week 14 Homework Question 13</em>
+                      </p>
+                    </li>
+                  </ul>
+                </p>
+              </li>
+            </ul>
+          </p>
+        </li>
+        <li>
+          <p>
+            <em>Part 2:  On paper</em>
+          </p>
+          
+          <p>
+This part of the exam will have problems similar to some or all of the following.  (Some of these problems might not have all the parts that were on corresponding quiz/homework problems, and some problems might have more parts to help guide you through the problem.)  Note that some of these are similar to problems from Exam 2, so it would be helpful to also look at the similar problems on the exam and talk to me if you have any questions!
+
+</p>
+<p>
+  (Examples of these problems are below in <xref ref="exercises-final-exam-practice"/>)
+</p>
+<p>
+  <ul>
+  <li>
+    <p>
+      <em>Quiz outcome <m>\boxed{5a}</m>:</em>  (<url href="https://laurennelsen.github.io/QUAN2010CourseInformation/sec-quiz-5.html"> Link to example solutions </url>)
+    </p>
+  </li>
+  <li>
+    <p>
+      <em>Quiz outcome <m>\boxed{6a}</m>:</em>  (<url href="https://laurennelsen.github.io/QUAN2010CourseInformation/sec-quiz-6.html"> Link to example solutions </url>)
+    </p>
+  </li>
+  <li>
+    <p>
+      <em>Week 10 HW Question 13</em>
+    </p>
+  </li>
+  <li>
+    <p>
+      <em>Quiz outcome <m>\boxed{7a}</m>:</em>  (<url href="https://laurennelsen.github.io/QUAN2010CourseInformation/sec-quiz-7.html"> Link to example solutions </url>)
+    </p>
+    <p>
+      (I will give you a version where we assume that the population variances are not equal.  I will also give you the box of formulas below on the exam, and I'll tell you what <m>df</m> to use.)
+    </p>
+    <p>
+      <image source="sheets/FinalFormulas.png" width="100%">
+      </image>
+    </p>
+  </li>
+</ul>
+
+
+</p>
+</li>
+</ul>
+    </p>
+    
+  </subsection>
+
+
+
+
+  <subsection xml:id="subsec-final-exam-study-suggestions">
+    <title>Suggestions for Study</title>
+
+    <p>
+      Look over all of your class notes and make sure you understand everything we have talked about.  Look back at these chapters/problems in the textbook.  Review the MyLab homework and the quiz problems.  (I do not guarantee that all exam questions will look exactly like one of those problems.) 
+
+    </p>
+    
+  </subsection>
+
+
+
+  <exercises xml:id="exercises-final-exam-practice">
+
+
+
+    
+
+<exercise>
+  <introduction>
+  <p>
+    <em>Quiz outcome <m>\boxed{5a}</m>:</em>
+  </p>
+  <p>
+    A company wondered if people liked the user interface of their upgraded website.  They survey a random selection of their customers.
+  </p>
+  <p>
+    Suppose that for <m>n=45</m> surveyed customers, 32 preferred the new user interface.
+  </p>
+  </introduction>
+
+  <task>
+    <statement>
+      <p>
+        Find a <m>95\%</m> confidence interval for the proportion of all the company's customers that prefer the new interface.
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>\alpha=1-0.95=0.05</m>, <m>\alpha/2=0.025</m>
+      </p>
+      <p>
+        <m>\overline{p}=\frac{32}{45}\approx 0.7111</m>
+      </p>
+      <p>
+        <m>z_{\alpha/2}=NORM.S.INV(.025+.95)\approx 1.96</m>
+      </p>
+      <p>
+        Convidence interval formula:  <m>\overline{p}\pm (z_{\alpha/2})\cdot\left(\sqrt{\frac{\overline{p}(1-\overline{p})}{n}}\right)</m>
+      </p>
+      <p>
+        The confidence interval is approximately:
+        <me>.7111\pm (1.96)\left(\sqrt{\frac{.7111(1-.7111)}{45}}\right)\rightarrow \boxed{ (0.5787, 0.8435) }</me>
+      </p>
+    </answer>
+  </task>
+
+  <task>
+    <statement>
+      <p>
+        Suppose the company claims that at least <m>85\%</m> of all the company's customers prefer the new interface.  Does the confidence interval you found support this claim?  Explain why or why not.
+      </p>
+    </statement>
+    <answer>
+      <p>
+        No, it does not.  We are <m>95\%</m> confident that <m>p</m> is between <m>57.87\%</m> and <m>84.35\%</m>, and <m>85\%</m> is larger than <m>84.35\%</m>.
+      </p>
+    </answer>
+  </task>
+
+</exercise>
+
+
+<exercise>
+  <introduction>
+  <p>
+    <em>Quiz outcome <m>\boxed{6a}</m>:</em>
+  </p>
+
+  <p>
+    A CEO is curious if the proportion of employees that are satisfied with their job is greater than <m>30\%</m>.  They conduct a survey of employees.  Suppose that for <m>n=380</m> surveyed employees, 125 were satisfied with their job.  Use <m>\alpha=0.05</m> and test the hypothesis that the proportion of all employees that are satisfied with their job is greater than <m>30\%</m>.
+  </p>
+
+</introduction>
+
+<task>
+  <statement>
+    <p>
+      State the null hypothesis.
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <m>H_0:\; p\leq 0.30</m>
+    </p>
+  </answer>
+</task>
+
+<task>
+  <statement>
+    <p>
+      State the alternative hypothesis.
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <m>H_1:\; p\gt 0.30</m>  <m>\leftarrow </m> (right-tail test)
+    </p>
+  </answer>
+</task>
+
+<task>
+  <statement>
+    <p>
+      Find the appropriate test statistic.
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <me>z=\frac{\overline{p}-p}{\sqrt{\frac{p(1-p)}{n}}}=\frac{\frac{125}{380}-0.30}{\sqrt{\frac{0.30(1-0.30)}{380}}}\approx 1.2314</me>
+    </p>
+  </answer>
+</task>
+
+<task>
+  <statement>
+    <p>
+      What is the p-value?
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <m>\text{p-value}\approx 1-NORM.S.DIST(1.2314,1)\approx \boxed{ 0.1091 }</m>
+    </p>
+  </answer>
+</task>
+
+<task>
+  <statement>
+    <p>
+      What do we conclude and why?  Do we have enough evidence to conclude that the proportion of employees that are satisfied with their job is greater than <m>30\%</m>?  Why or why not?
+    </p>
+  </statement>
+  <answer>
+    <p>
+      Since the p-value is bigger than <m>\alpha=0.05</m>, we fail to reject the null hypothesis.  So there is <em>not</em> enough evidence to conclude that the proportion of employees that are satisfied with their job is greater than <m>30\%</m>.
+    </p>
+  </answer>
+</task>
+
+</exercise>
+
+
+
+
+
+
+
+
+<exercise>
+  <introduction>
+  <p>
+    <em>Week 10 HW Question 13:</em>
+  </p>
+  <p>
+    Suppose a student has two possible routes for their commute to school.  Because they never want to be late for class, they want to choose the route that provides a more consistent commute time.  Being a hopeless statistician, the student meticulously drove the first route 20 times and the second route 25 times and calculated the standard deviations for each.  The following table summarizes sample data collected from two different routes.
+  </p>
+  <p>
+    <tabular>
+      <row header="yes">
+        <cell></cell> <cell>Route A</cell> <cell>Route B</cell>
+      </row>
+      <row>
+        <cell>sample standard deviation</cell> <cell>6.5 minutes</cell> <cell>10.4 minutes</cell>
+      </row>
+      <row>
+        <cell>sample size</cell> <cell>25</cell>  <cell>20</cell>
+      </row>
+    </tabular>
+  </p>
+
+  </introduction>
+  <task>
+    <statement>
+      <p>
+        Using <m>\alpha=0.05</m>, we want to determine if Route A provides a more consistent commute time than Route B.  First, state the null alternative hypotheses.  (Let <m>\sigma_1^2</m> represent the larger sample variance and <m>\sigma_2^2</m> represent the smaller sample variance.)
+      </p>
+    </statement>
+    <answer>
+      <p>
+        (Since Route B has the bigger sample standard deviation, Route B is <q>Population 1</q> and Route A is <q>Population 2</q>.)
+      </p>
+      <p>
+        <m>H_0:\; \sigma_1^2\leq \sigma_2^2</m>
+      </p>
+      <p>
+        <m>H_1:\; \sigma_1^2\gt \sigma_2^2</m>
+      </p>
+    </answer>
+  </task>
+  <task>
+    <statement>
+      <p>
+        Calculate the appropriate test statistic.
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <me>F=\frac{s_1^2}{s_2^2}=\frac{(10.4)^2}{(6.5)^2}=\boxed{2.56}</me>
+      </p>
+    </answer>
+  </task>
+  <task>
+    <statement>
+      <p>
+        Calculate the appropriate critical value (using <m>\alpha=0.05</m>).
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <me>F.INV.RT(.05,25-1,20-1)\approx \boxed{2.1141}</me>
+      </p>
+    </answer>
+  </task>
+  <task>
+    <statement>
+      <p>
+        What can we conclude?  Do we have enough evidence to conclude that Route A provides a more consistent commute time than Route B?  Why or why not?
+      </p>
+    </statement>
+    <answer>
+      <p>
+        Since the test statistic is in the rejection region, we reject the null hypothesis and have enough evidence to conclude that Route A provides a more consistent commute time than Route B.
+      </p>
+    </answer>
+  </task>
+</exercise>
+
+
+
+<exercise>
+  <introduction>
+  <p>
+    <em>Quiz outcome <m>\boxed{7a}</m>:</em>
+  </p>
+  <p>
+    <image source="sheets/FinalFormulas.png" width="100%">
+    </image>
+  </p>
+  <p>
+    Assume <m>\alpha=0.05</m>.
+  </p>
+  <p>
+    A researcher wants to study average commute time for students at UCCS and students at CU Denver.  Out of 35 students from CU Denver, the average commute time was <m>\overline{x}_1=34</m>, with sample standard deviation <m>s_1=5.2</m> minutes.  Then out of 30 students from UCCS, the average commute time was <m>\overline{x}_2=22</m> minutes, with sample standard deviation <m>s_2=8.3</m> minutes.
+  </p>
+  <p>
+    Assume that the population variances are not equal and that <m>df=47</m>.
+  </p>
+  <p>
+    We want to test the hypothesis that the difference in the average commute times between CU Denver students and UCCS students is less than 15 minutes.
+  </p>
+  </introduction>
+  
+<task>
+  <statement>
+    <p>
+      State the null hypothesis.
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <m>H_0:\; \mu_1-\mu_2\geq 15</m>
+    </p>
+  </answer>
+</task>
+
+<task>
+  <statement>
+    <p>
+      State the alternative hypothesis.
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <m>H_1:\; \mu_1-\mu_2\lt 15</m>  (<m>\leftarrow</m> left-tailed test)
+    </p>
+  </answer>
+</task>
+
+<task>
+  <statement>
+    <p>
+      What is the p-value?
+    </p>
+  </statement>
+  <answer>
+    <p>
+      test statistic:  <me>t=\frac{(\overline{x}_1-\overline{x}_2)-(\mu_1-\mu_2)_{H_0}}{\sqrt{\frac{s_1^2}{n_1}+\frac{s_2^2}{n_2}}}=\frac{34-22-15}{\sqrt{\frac{(5.2)^2}{35}+\frac{(8.3)^2}{30}}}\approx -1.7125</me>
+    </p>
+    <p>
+      p-value: <me>\approx T.DIST(-1.7125,47,1)\approx\boxed{0.0467}</me>
+    </p>
+  </answer>
+</task>
+
+
+<task>
+  <statement>
+    <p>
+      What do we conclude and why?  Do we have enough evidence to conclude that the difference in the average commute times between CU Denver and UCCS students is less than 15 minutes?
+    </p>
+  </statement>
+  <answer>
+    <p>
+      Since the p-value (<m>0.0467</m>) is less than <m>alpha=0.05</m>, we reject the null hypothesis, and we have enough evidence to conclude that the difference in average commute times is less than 15 minutes.
+    </p>
+  </answer>
+</task>
+
+</exercise>
+
+
+  </exercises>
+
+
 
   </section>
