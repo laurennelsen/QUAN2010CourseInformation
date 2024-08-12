@@ -3,7 +3,11 @@
 <chapter xml:id="ch-exam-info" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Exam Information</title>
   
-  
+  <introduction>
+    <p>
+      (This is subject to change.)
+    </p>
+  </introduction>
 
   <!-- include sections -->
    <xi:include href="sec-exam-1-info.ptx" />
