@@ -73,6 +73,10 @@
   </latex>
 
   <html>
+
+<analytics google-gst="G-SJDGC4233V"/>
+
+
     <platform host="web"/>
     <!-- The host above could also be "runestone" -->
 
