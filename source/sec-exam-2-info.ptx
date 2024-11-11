@@ -165,7 +165,7 @@
     </statement>
     <answer>
       <p>
-        <me>P(\overline{X}\leq 90) = P\left(Z\leq \frac{90-87}{(16/\sqrt{15})}\right)\approx 0.7661</me>
+        <me>P(\overline{X}\leq 90) = NORM.DIST(90,87,16/SQRT(15),1) \approx 0.7661</me>
       </p>
     </answer>
   </task>
