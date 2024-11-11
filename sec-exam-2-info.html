@@ -322,7 +322,7 @@ window.MathJax = {
 <div class="para" id="exercises-exam-2-practice-1-2-1-1">For a normal population with a mean equal to 87 and a standard deviation equal to 16, determine the probability of observing a sample mean of 90 or less from a sample of size 15.</div>
 <div class="solutions"><details id="exercises-exam-2-practice-1-2-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para logical" id="exercises-exam-2-practice-1-2-2-1"><div class="displaymath process-math">
 \begin{equation*}
-P(\overline{X}\leq 90) = P\left(Z\leq \frac{90-87}{(16/\sqrt{15})}\right)\approx 0.7661
+P(\overline{X}\leq 90) = NORM.DIST(90,87,16/SQRT(15),1) \approx 0.7661
 \end{equation*}
 </div></div></div></details></div></article><article class="task exercise-like" id="exercises-exam-2-practice-1-3"><h5 class="heading"><span class="codenumber">(b)</span></h5>
 <div class="para" id="exercises-exam-2-practice-1-3-1-1">For a population that is left-skewed with a mean of 21 and a standard deviation equal to 15, determine the probability of observing a sample mean of 18 or more from a sample of size 33.</div>
