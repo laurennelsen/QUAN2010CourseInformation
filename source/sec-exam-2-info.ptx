@@ -160,12 +160,12 @@
   <task>
     <statement>
       <p>
-        For a normal population with a mean equal to 87 and a standard deviation equal to 26, determine the probability of observing a sample mean of 90 or less from a sample of size 15.
+        For a normal population with a mean equal to 87 and a standard deviation equal to 16, determine the probability of observing a sample mean of 90 or less from a sample of size 15.
       </p>
     </statement>
     <answer>
       <p>
-        <me>P(\overline{X}\leq 90) = P\left(Z\leq \frac{90-87}{(16/\sqrt{15})}\right)\approx 0.7673</me>
+        <me>P(\overline{X}\leq 90) = P\left(Z\leq \frac{90-87}{(16/\sqrt{15})}\right)\approx 0.7661</me>
       </p>
     </answer>
   </task>
