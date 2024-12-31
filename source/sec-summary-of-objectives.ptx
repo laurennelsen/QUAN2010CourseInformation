@@ -24,10 +24,18 @@
                     </li>
                     <li>
                         <p>
-                            <em>1b:  Visualizing Data</em>
+                            <em>1b:  Visualizing Data - Histograms</em>
                         </p>
                         <p>
-                            Given a sample of data, I can generate visualizations to represent its variables.
+                            Given a sample of data, I can generate histograms to represent its variables.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <em>1c:  Visualizing Data - Bar Charts</em>
+                        </p>
+                        <p>
+                            Given a sample of data, I can generate bar charts to represent its variables.
                         </p>
                     </li>
                 </ul>
