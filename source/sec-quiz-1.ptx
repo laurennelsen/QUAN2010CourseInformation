@@ -20,7 +20,8 @@
       
     </p>
     <p>
-      <url href="external/sheets/Example Quiz 1 Solutions.pdf" />
+      <url href="external/sheets/Example Quiz 1 Objectives Solutions.pdf" />
+       <url href="external/sheets/Example 1c solution.xlsx" />
 
     </p>
 
@@ -34,7 +35,7 @@
             <em>Objective 1a:</em>
           </p>
           <p>
-            [insert video]
+                  <video youtube="tGR3VpicagQ"/>
           </p>
         </li>
         <li>
@@ -42,7 +43,7 @@
             <em>Objective 1b:</em>
           </p>
           <p>
-            [insert video]
+                  <video youtube="sTegHfJEYdk"/>
           </p>
         </li>
         <li>
@@ -50,7 +51,7 @@
             <em>Objective 1c:</em>
           </p>
           <p>
-            [insert video]
+                  <video youtube="JA4LMjYCdZ0"/>
           </p>
         </li>
       </ul>
