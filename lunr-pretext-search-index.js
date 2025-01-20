@@ -151,7 +151,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Quiz 1 Example Problems",
-  "body": " Quiz 1 Example Problems  Below are example problems for Quiz 1.      Solutions     Excel files and\/or written work for solutions:       Videos of Solutions:    Objective 1a:   [insert video]     Objective 1b:   [insert video]     Objective 1c:   [insert video]         "
+  "body": " Quiz 1 Example Problems  Below are example problems for Quiz 1.      Solutions     Excel files and\/or written work for solutions:        Videos of Solutions:    Objective 1a:         Objective 1b:         Objective 1c:             "
 },
 {
   "id": "sec-quiz-2",
