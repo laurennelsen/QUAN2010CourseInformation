@@ -83,15 +83,27 @@
                 </p>
               </li>
               <li>
-                <p>
-                  <em>Histogram:</em>  You will be given a dataset and asked to construct a histogram and describe the shape.  You will need to do all of your work in Excel and upload the file to Canvas.  (Be sure to give your histogram a title and label your axes.  Also remember to follow all of the best practices for histograms discussed in class and in our textbook.  This means that you should use the <m>2^k\geq n</m> Rule to find the number of bins, and remember to include all of your work and label everything clearly.)
-                </p>
-              </li>
-              <li>
-                <p>
-                  <em>Box-and-whisker plot:</em>  You will be given a dataset and asked to construct a box-and-whisker plot for the data.   You will need to list the values of the first three quartiles:  Q1, Q2, and Q3 and identify any outliers in the data.  You will need to do all of your work in Excel and upload the file to Canvas.  (This is similar to parts of quiz objective <m>\boxed{2b}</m>.)
-                </p>
-              </li>
+    <p>
+      <em>Quiz outcomes <m>\boxed{1b}</m> and <m>\boxed{1c}</m></em>
+    </p>
+    <p>
+      (<url href="https://laurennelsen.github.io/QUAN2010CourseInformation/sec-quiz-1.html"> Link to example solutions for 1a and 1c </url>)
+    </p>
+    </li>
+    <li>
+      <p>
+        <em>Box-and-whisker plot:</em> You will be given a dataset and asked to construct a box-and-whisker plot for the data. You will need to list the values of the first three quartiles: Q1, Q2, and Q3 and identify any outliers in the data. You will need to do all of your work in Excel and upload the file to Canvas. (This is similar to parts of quiz objective <m>\boxed{2b}</m>
+        .)
+      </p>
+    </li>
+    <li>
+        <p>
+      <em>Quiz outcome <m>\boxed{2a}</m></em>
+    </p>
+    <p>
+      (<url href="https://laurennelsen.github.io/QUAN2010CourseInformation/sec-quiz-2.html"> Link to example solutions for 2a </url>)
+    </p>
+    </li>
             </ul>
           </p>
         </li>
@@ -104,10 +116,7 @@
 <ul>
   <li>
     <p>
-      <em>Problems similar to quiz outcomes <m>\boxed{2a}</m> and <m>\boxed{3a}</m></em>
-    </p>
-    <p>
-      (<url href="https://laurennelsen.github.io/QUAN2010CourseInformation/sec-quiz-2.html"> Link to example solutions for 2a </url>)
+      <em>Problems similar to quiz outcomes <m>\boxed{3a}</m></em>
     </p>
     <p>
       (<url href="https://laurennelsen.github.io/QUAN2010CourseInformation/sec-quiz-3.html"> Link to example solutions for 3a </url>)
