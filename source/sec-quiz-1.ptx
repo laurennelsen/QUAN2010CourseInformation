@@ -7,10 +7,11 @@
 
   <p>
     <url href="external/sheets/Example Quiz 1 Objectives.pdf" />
+
+           <url href="external/sheets/cars93.xlsx" />
   </p>
 
   <subsection xml:id="subsec-quiz-1-solutions">
-           <url href="external/sheets/cars93.xlsx" />
 
     <title>Solutions</title>
 
