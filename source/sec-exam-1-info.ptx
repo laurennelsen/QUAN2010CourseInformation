@@ -191,46 +191,6 @@
 
   <exercises xml:id="exercises-exam-1-practice">
     
-<exercise>
-  <introduction>
-  <p>
-    <em>Quiz outcome <m>\boxed{2a}</m>:</em>
-  </p>
-    <p> Consider the following list of data: <me>110, 85, 75, 68, 97, 85, 62, 82, 110, 77, 198, 9,</me> </p>
-  </introduction>
-    <task>
-      <statement>
-        <p> Find the mean of this data set. </p>
-      </statement>
-      <answer>
-        <p> The mean is <m>88.1666666666667</m>.  (On the exam, be sure to show your work or what Excel command(s) you used.) </p>
-      </answer>
-    </task>
-    <task>
-      <statement>
-        <p> Find the median of this data set. </p>
-      </statement>
-      <answer>
-        <p> The median is <m>\frac{167}{2}</m>.  (On the exam, be sure to show your work/justification or what Excel command(s) you used.)  </p>
-      </answer>
-    </task>
-    <task>
-      <statement>
-        <p> Find the mode(s) of this data set. </p>
-      </statement>
-      <answer>
-        <p> The mode(s): <m>85,110</m>.  (On the exam, be sure to show your work/justification or what Excel command(s) you used.)  </p>
-      </answer>
-    </task>
-    <task>
-      <statement>
-        <p> Identify whether or not there may be left or right skew in this data set, and explain how you determined this. </p>
-      </statement>
-      <answer>
-        <p> right skew since the mean is bigger than the median </p>
-      </answer>
-    </task>
-</exercise>
 
 
 
