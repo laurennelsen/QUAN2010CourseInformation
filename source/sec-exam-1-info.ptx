@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-exam-1-info" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Exam 1 Information (The information below is not yet finalized!)</title>
+  <title>Exam 1 Information</title>
 
   <p>
    Exam 1 will take place in class on the day listed in the syllabus (<xref ref="sec-course-schedule"/>). 
@@ -43,7 +43,7 @@
   </p>
 
   <p>
-    Credit will be given for not only the final answer, but the work/justification that supports that answer.
+    For problems that require showing work, credit will be given for not only the final answer, but the work/justification that supports that answer.
 
   </p>
 </li>
@@ -87,7 +87,7 @@
       <em>Quiz outcomes <m>\boxed{1b}</m> and <m>\boxed{1c}</m></em>
     </p>
     <p>
-      <url href="https://laurennelsen.github.io/QUAN2010CourseInformation/sec-quiz-1.html"> Link to example solutions for 1a and 1c </url>
+      <url href="https://laurennelsen.github.io/QUAN2010CourseInformation/sec-quiz-1.html"> Link to example solutions for 1b and 1c </url>
     </p>
     </li>
     <li>
@@ -183,6 +183,10 @@
     <p>
       Look over all of your class notes and make sure you understand everything we have talked about.  Look back at these chapters/problems in the textbook.  Review the MyLab homework and the quiz problems.  (I do not guarantee that all exam questions will look exactly like one of those problems.) 
 
+    </p>
+
+    <p>
+      Be able to do the problems under <xref ref="exercises-exam-1-practice"/>, and potentially include those on your <q>cheat sheet</q>.
     </p>
     
   </subsection>
