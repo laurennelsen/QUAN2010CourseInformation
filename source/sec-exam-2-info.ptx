@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-exam-2-info" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Exam 2 Information (The information below is not yet finalized!)</title>
+  <title>Exam 2 Information</title>
 
   <p>
    Exam 2 will take place in class on the day listed in the syllabus (<xref ref="sec-course-schedule"/>). 
@@ -143,12 +143,19 @@
       Look over all of your class notes and make sure you understand everything we have talked about.  Look back at these chapters/problems in the textbook.  Review the MyLab homework and the quiz problems.  (I do not guarantee that all exam questions will look exactly like one of those problems.) 
 
     </p>
+
     
   </subsection>
 
 
 
   <exercises xml:id="exercises-exam-2-practice">
+
+  <p>
+    
+Note that the exam questions will not look <em>exactly</em> like the problems below.  For example, the example problem might be a right-tailed test, and on the exam you could have a problem that is a left-tailed or a two-tailed test.  Make sure you understand each step of the example problems so that you would be able to do a slightly different version of a similar problem.
+
+  </p>
 
 
 <exercise>
