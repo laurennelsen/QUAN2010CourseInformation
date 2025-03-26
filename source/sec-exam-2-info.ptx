@@ -11,7 +11,7 @@
   <ul>
     <li>
       <p>
-        The exam will cover Chapters 7(Part 2), 8, 9, and 13 from the textbook, which are Chapters 8-11 in the course notes (<url href="https://laurennelsen.github.io/QUAN2010/QUAN_2010_Notes.html"> Link to course notes </url>)
+        The exam will cover Chapters 7(Part 2), 8, 9, and 13 from the textbook, which are Chapters 8-11 in the course notes: <url href="https://laurennelsen.github.io/QUAN2010/QUAN_2010_Notes.html"> Link to course notes </url>
         
       </p>
       
@@ -82,6 +82,11 @@
                   <em>Multiple choice problems</em> from these chapters
                 </p>
               </li>
+              <li>
+    <p>
+      <em>Quiz outcome <m>\boxed{5a}</m>:</em>  <url href="https://laurennelsen.github.io/QUAN2010CourseInformation/sec-quiz-5.html"> Link to example solutions </url>
+    </p>
+  </li>
             </ul>
           </p>
         </li>
@@ -97,19 +102,15 @@
       <em>Exercises 8.2.2 and 8.2.3 from the Course Notes</em> (<url href="https://laurennelsen.github.io/QUAN2010/sec-Central-Limit-Theorem.html" />)
     </p>
   </li>
+
   <li>
     <p>
-      <em>Quiz outcome <m>\boxed{5a}</m>:</em>  (<url href="https://laurennelsen.github.io/QUAN2010CourseInformation/sec-quiz-5.html"> Link to example solutions </url>)
+      <em>Quiz outcome <m>\boxed{6a}</m>:</em>  <url href="https://laurennelsen.github.io/QUAN2010CourseInformation/sec-quiz-6.html"> Link to example solutions </url>
     </p>
   </li>
   <li>
     <p>
-      <em>Quiz outcome <m>\boxed{6a}</m>:</em>  (<url href="https://laurennelsen.github.io/QUAN2010CourseInformation/sec-quiz-6.html"> Link to example solutions </url>)
-    </p>
-  </li>
-  <li>
-    <p>
-      <em>Quiz outcome <m>\boxed{6b}</m>:</em>  (<url href="https://laurennelsen.github.io/QUAN2010CourseInformation/sec-quiz-6.html"> Link to example solutions </url>)
+      <em>Quiz outcome <m>\boxed{6b}</m>:</em>  <url href="https://laurennelsen.github.io/QUAN2010CourseInformation/sec-quiz-6.html"> Link to example solutions </url>
     </p>
   </li>
   <li>
@@ -188,6 +189,8 @@
 </exercise>
     
 
+
+<!-- 
 <exercise>
   <introduction>
   <p>
@@ -240,7 +243,7 @@
     </answer>
   </task>
 
-</exercise>
+</exercise> -->
 
 
 <exercise>
