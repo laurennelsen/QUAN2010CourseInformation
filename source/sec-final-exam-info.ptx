@@ -84,45 +84,97 @@
               </li>
               <li>
                 <p>
-                  After the multiple choice problems, this part of the exam will have questions using Excel files.  You will need to do your work in the Excel file, save it, and upload it back on Canvas.  This part of the exam will have problems similar to the following:
+                  <em>Quiz outcome <m>\boxed{5a}</m>:</em>  <url href="https://laurennelsen.github.io/QUAN2010CourseInformation/sec-quiz-5.html"> Link to example solutions </url>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <em>Quiz Objective <m>\boxed{7b}</m>:</em>  <url href="https://laurennelsen.github.io/QUAN2010CourseInformation/sec-quiz-7.html"> Link to example solutions </url>
+                </p>
+                <p>
+                  You'll need to submit an Excel file with your work for this problem.  I'll ask the following things for this problem:
                   <ul>
                     <li>
                       <p>
-                        <em>Quiz Objective <m>\boxed{7b}</m>:</em>  <url href="https://laurennelsen.github.io/QUAN2010CourseInformation/sec-quiz-7.html"> Link to example solutions </url>
-                      </p>
-                      <p>
-                        You'll need to submit an Excel file with your work for this problem.  I'll ask the following things for this problem:
-                        <ul>
-                          <li>
-                            <p>
-                              What is the p-value?
-                            </p>
-                          </li>
-                          <li>
-                            <p>
-                              Should we reject or fail to reject the null hypothesis?
-                            </p>
-                          </li>
-                          <li>
-                            <p>
-                              Is there enough evidence to conclude that the average difference in ... is greater than ... points?
-                            </p>
-                          </li>
-                        </ul>
+                        What is the p-value?
                       </p>
                     </li>
                     <li>
                       <p>
-                        <em>Similar to parts of Questions 1 and 5 from the Week 14 Homework</em>
+                        Should we reject or fail to reject the null hypothesis?
                       </p>
                     </li>
                     <li>
                       <p>
-                        <em>Week 14 Homework Question 13</em>
+                        Is there enough evidence to conclude that the average difference in ... is greater than ... points?
                       </p>
                     </li>
                   </ul>
                 </p>
+              </li>
+              <li>
+                <p>
+                  <em>Similar to parts of Questions 1 and 5 from the Week 14 Homework</em>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <em>Week 14 Homework Question 13</em>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <em>You'll need to interpret the Excel output for a regression model.</em>
+                </p>
+                <p>
+                  This will be similar to the problem below:
+                </p>
+                <example>
+                  <p>
+                    We want to develop a regression model to predict the hospital bill (in US dollars) for a patient based on their age, number of days in the hospital, and the number of days they spent in the ICU.  Using the Data Analysis Regression tool in Excel, we get the output in the Excel file below:
+
+
+                  </p>
+                  <p>
+                    <url href="external/sheets/HospitalRegressionInterpretation.xlsx" />
+
+                  </p>
+                  <p>
+                    Let <m>x_1</m> be the Age, <m>x_2</m> be the number of days in the hospital, and <m>x_3</m> be the number of days in the ICU.
+                  </p>
+                  <ol>
+                    <li>
+                      <p>
+                        Using this output in Excel, what would the predicted hospital bill be for a patient who is 35 who spent 5 days in the hospital and 2 days in the ICU?
+                      </p>
+                    </li>
+                    <li>
+                      <p>
+                        Using this output in Excel, we could find the regression model in the form
+                        <me>
+                          \hat{y}=b_0+b_1\cdot x_1 + b_2\cdot x_2 + b_3\cdot x_3.
+                        </me>
+                        Find a <m>95\%</m> confidence interval for <m>\beta_3</m>.
+                      </p>
+                    </li>
+                    <li>
+                      <p>
+                        Using a significance level of <m>\alpha=0.01</m>, would we have enough evidence to conclude that any of the coefficients is zero?
+                      </p>
+                    </li>
+                    <li>
+                      <p>
+                        Which variable would we want to remove from our regression model?
+                      </p>
+                    </li>
+                  </ol>
+                  <solution>
+                    <p>
+                      <url href="external/sheets/RegressionInterpretationSolution.xlsx" />
+
+                    </p>
+                  </solution>
+                </example>
               </li>
             </ul>
           </p>
@@ -131,51 +183,41 @@
           <p>
             <em>Part 2:  On paper</em>
           </p>
-          
           <p>
-This part of the exam will have problems similar to some or all of the following.  (Some of these problems might not have all the parts that were on corresponding quiz/homework problems, and some problems might have more parts to help guide you through the problem.)  Note that some of these are similar to problems from Exam 2, so it would be helpful to also look at the similar problems on the exam and talk to me if you have any questions!
-
-</p>
-<p>
-  (Examples of these problems are below in <xref ref="exercises-final-exam-practice"/>)
-</p>
-<p>
-  <ul>
-  <li>
-    <p>
-      <em>Quiz outcome <m>\boxed{5a}</m>:</em>  <url href="https://laurennelsen.github.io/QUAN2010CourseInformation/sec-quiz-5.html"> Link to example solutions </url>
+            This part of the exam will have problems similar to some or all of the following.  (Some of these problems might not have all the parts that were on corresponding quiz/homework problems, and some problems might have more parts to help guide you through the problem.)  Note that some of these are similar to problems from Exam 2, so it would be helpful to also look at the similar problems on the exam and talk to me if you have any questions!
+          </p>
+          <p>
+            (Examples of these problems are below in <xref ref="exercises-final-exam-practice"/>)
+          </p>
+          <p>
+            <ul>
+              <li>
+                <p>
+                  <em>Quiz outcome <m>\boxed{6a}</m>:</em>  <url href="https://laurennelsen.github.io/QUAN2010CourseInformation/sec-quiz-6.html"> Link to example solutions </url>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <em>Week 10 HW Question 9</em>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <em>Quiz outcome <m>\boxed{7a}</m>:</em>  <url href="https://laurennelsen.github.io/QUAN2010CourseInformation/sec-quiz-7.html"> Link to example solutions </url>
+                </p>
+                <p>
+                  (I will give you a version where we assume that the population variances are not equal.  I will also give you the box of formulas below on the exam, and I'll tell you what <m>df</m> to use.)
+                </p>
+                <p>
+                  <image source="sheets/FinalFormulas.png" width="100%">
+                  </image>
+                </p>
+              </li>
+            </ul>
+          </p>
+        </li>
+      </ul>
     </p>
-  </li>
-  <li>
-    <p>
-      <em>Quiz outcome <m>\boxed{6a}</m>:</em>  <url href="https://laurennelsen.github.io/QUAN2010CourseInformation/sec-quiz-6.html"> Link to example solutions </url>
-    </p>
-  </li>
-  <li>
-    <p>
-      <em>Week 10 HW Question 9</em>
-    </p>
-  </li>
-  <li>
-    <p>
-      <em>Quiz outcome <m>\boxed{7a}</m>:</em>  <url href="https://laurennelsen.github.io/QUAN2010CourseInformation/sec-quiz-7.html"> Link to example solutions </url>
-    </p>
-    <p>
-      (I will give you a version where we assume that the population variances are not equal.  I will also give you the box of formulas below on the exam, and I'll tell you what <m>df</m> to use.)
-    </p>
-    <p>
-      <image source="sheets/FinalFormulas.png" width="100%">
-      </image>
-    </p>
-  </li>
-</ul>
-
-
-</p>
-</li>
-</ul>
-    </p>
-    
   </subsection>
 
 
@@ -199,7 +241,7 @@ This part of the exam will have problems similar to some or all of the following
 
     
 
-<exercise>
+<!--<exercise>
   <introduction>
   <p>
     <em>Quiz outcome <m>\boxed{5a}</m>:</em>
@@ -251,7 +293,7 @@ This part of the exam will have problems similar to some or all of the following
     </answer>
   </task>
 
-</exercise>
+</exercise>-->
 
 
 <exercise>
